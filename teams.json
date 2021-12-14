@@ -1,0 +1,86 @@
+{
+  "seeded": [
+    {
+      "team": "Manchester City",
+      "group": "A",
+      "country": "England"
+    },
+    {
+      "team": "Liverpool",
+      "group": "B",
+      "country": "England"
+    },
+    {
+      "team": "Ajax",
+      "group": "C",
+      "country": "Netherlands"
+    },
+    {
+      "team": "Real Madrid",
+      "group": "D",
+      "country": "Spain"
+    },
+    {
+      "team": "Bayern",
+      "group": "E",
+      "country": "Germany"
+    },
+    {
+      "team": "Manchester United",
+      "group": "F",
+      "country": "England"
+    },
+    {
+      "team": "LOSC Lille",
+      "group": "G",
+      "country": "France"
+    },
+    {
+      "team": "Juventus",
+      "group": "H",
+      "country": "Italy"
+    }
+  ],
+  "unseeded": [
+    {
+      "team": "PSG",
+      "group": "A",
+      "country": "France"
+    },
+    {
+      "team": "Atletico Madrid",
+      "group": "B",
+      "country": "Spain"
+    },
+    {
+      "team": "Sporting CP",
+      "group": "C",
+      "country": "Portugal"
+    },
+    {
+      "team": "Inter",
+      "group": "D",
+      "country": "Italy"
+    },
+    {
+      "team": "Benfica",
+      "group": "E",
+      "country": "Portugal"
+    },
+    {
+      "team": "Villareal",
+      "group": "F",
+      "country": "Spain"
+    },
+    {
+      "team": "RB Salzburg",
+      "group": "G",
+      "country": "Austria"
+    },
+    {
+      "team": "Chelsea",
+      "group": "H",
+      "country": "England"
+    }
+  ]
+}
